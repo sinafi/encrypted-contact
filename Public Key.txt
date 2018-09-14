@@ -1,0 +1,4 @@
+//111113P2E86CiHxrBYjdcXbuEc9nqkg3d
+-----Begin Bitcoin Public Key-----
+0456ca48cf878d18d59013733dd53014caf34be858f55c2b27f1c630c3f381f7c8f47dbc08b924eb1814b92e09ece9d46d2a8efdc1009118f8ed8a74f3f21cf0b9
+-----End Bitcoin Public Key-----
